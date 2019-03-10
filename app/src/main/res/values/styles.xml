@@ -1,0 +1,42 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">?themeColorPrimary</item>
+        <item name="colorPrimaryDark">?themeColorPrimaryDark</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+    </style>
+
+    <style name="AppTheme.Day" parent="AppTheme">
+        <item name="themeColorPrimary">@color/colorPrimaryDay</item>
+        <item name="themeColorPrimaryDark">@color/colorPrimaryDayDark</item>
+        <item name="themeColorBackground">@color/colorBackgroundDay</item>
+        <item name="themeColorCardBackground">@color/colorCardBackgroundDay</item>
+        <item name="themeColorFollowers">@color/colorFollowersDay</item>
+        <item name="themeColorValues">@color/colorValuesDay</item>
+        <item name="themeLineName">@color/colorLineNameDay</item>
+        <item name="themeGrid">@color/colorGridDay</item>
+        <item name="themeRectangle">@color/colorRectangleDay</item>
+        <item name="themeWindow">@color/colorWindowDay</item>
+        <item name="themeFloatWindowBackground">@color/colorFloatWindowBackgroundDay</item>
+        <item name="themeFloatWindowBorder">@color/colorFloatWindowBorderDay</item>
+    </style>
+
+    <style name="AppTheme.Night" parent="AppTheme">
+        <item name="themeColorPrimary">@color/colorPrimaryNight</item>
+        <item name="themeColorPrimaryDark">@color/colorPrimaryNightDark</item>
+        <item name="themeColorBackground">@color/colorBackgroundNight</item>
+        <item name="themeColorCardBackground">@color/colorCardBackgroundNight</item>
+        <item name="themeColorFollowers">@color/colorFollowersNight</item>
+        <item name="themeColorValues">@color/colorValuesNight</item>
+        <item name="themeLineName">@color/colorLineNameNight</item>
+        <item name="themeGrid">@color/colorGridNight</item>
+        <item name="themeRectangle">@color/colorRectangleNight</item>
+        <item name="themeWindow">@color/colorWindowNight</item>
+        <item name="themeFloatWindowBackground">@color/colorFloatWindowBackgroundNight</item>
+        <item name="themeFloatWindowBorder">@color/colorFloatWindowBorderNight</item>
+    </style>
+
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+</resources>

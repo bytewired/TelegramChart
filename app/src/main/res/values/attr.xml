@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="themeColorPrimary" format="reference"/>
+    <attr name="themeColorPrimaryDark" format="reference"/>
+    <attr name="themeColorBackground" format="reference"/>
+    <attr name="themeColorCardBackground" format="reference"/>
+    <attr name="themeColorFollowers" format="reference"/>
+    <attr name="themeColorValues" format="reference"/>
+    <attr name="themeLineName" format="reference"/>
+    <attr name="themeGrid" format="reference"/>
+    <attr name="themeRectangle" format="reference"/>
+    <attr name="themeWindow" format="reference"/>
+    <attr name="themeFloatWindowBackground" format="reference"/>
+    <attr name="themeFloatWindowBorder" format="reference"/>
+</resources>

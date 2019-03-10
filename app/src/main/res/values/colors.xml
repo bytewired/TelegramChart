@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDay">#537EA0</color>
+    <color name="colorPrimaryDayDark">#436481</color>
+    <color name="colorBackgroundDay">#F0F0F0</color>
+    <color name="colorCardBackgroundDay">#FFFFFF</color>
+    <color name="colorFollowersDay">#3D97D2</color>
+    <color name="colorValuesDay">#96A2AA</color>
+    <color name="colorLineNameDay">#000000</color>
+    <color name="colorGridDay">#E7E7E7</color>
+    <color name="colorRectangleDay">#80EBF1F2</color>
+    <color name="colorWindowDay">#80D2DCE6</color>
+    <color name="colorFloatWindowBackgroundDay">#FFFFFF</color>
+    <color name="colorFloatWindowBorderDay">#D5CBCB</color>
+
+    <color name="colorPrimaryNight">#212D3A</color>
+    <color name="colorPrimaryNightDark">#1A242E</color>
+    <color name="colorBackgroundNight">#151E27</color>
+    <color name="colorCardBackgroundNight">#1D2733</color>
+    <color name="colorFollowersNight">#7EC5F9</color>
+    <color name="colorValuesNight">#516371</color>
+    <color name="colorLineNameNight">#FFFFFF</color>
+    <color name="colorGridNight">#101924</color>
+    <color name="colorRectangleNight">#8019232E</color>
+    <color name="colorWindowNight">#80FFFFFF</color>
+    <color name="colorFloatWindowBackgroundNight">#212D3A</color>
+    <color name="colorFloatWindowBorderNight">#1C2435</color>
+</resources>
